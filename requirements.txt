@@ -1,3 +1,5 @@
 ipywidgets
-voila
 pandas
+numpy
+voila
+ipyvuetify
